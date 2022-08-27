@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: spring-boot-docker
+  cloud:
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      token: hvs.99PFsuSpdTnOlKVpM5LT95Gd
