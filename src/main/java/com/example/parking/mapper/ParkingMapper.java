@@ -1,4 +1,4 @@
-package com.example.parking.mapstruct;
+package com.example.parking.mapper;
 
 import com.example.parking.dto.ParkingDto;
 import com.example.parking.model.Parking;

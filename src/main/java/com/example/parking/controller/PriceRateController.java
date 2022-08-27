@@ -1,10 +1,9 @@
 package com.example.parking.controller;
 
 import com.example.parking.dto.PriceRateDto;
-import com.example.parking.mapstruct.PriceRateMapper;
+import com.example.parking.mapper.PriceRateMapper;
 import com.example.parking.service.PriceRateService;
 import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

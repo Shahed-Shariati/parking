@@ -1,7 +1,6 @@
-package com.example.parking.mapstruct;
+package com.example.parking.mapper;
 
 import com.example.parking.dto.PriceRateDto;
-import com.example.parking.enumaration.PriceRateType;
 import com.example.parking.model.PriceRate;
 import org.mapstruct.Mapper;
 

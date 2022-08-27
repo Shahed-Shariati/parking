@@ -2,7 +2,7 @@ package com.example.parking.controller;
 
 
 import com.example.parking.dto.VehicleDto;
-import com.example.parking.mapstruct.VehicleMapper;
+import com.example.parking.mapper.VehicleMapper;
 import com.example.parking.service.VehicleService;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
